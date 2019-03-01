@@ -1,7 +1,8 @@
 # See you in BUPT
 
-[![GitHub watchers](https://img.shields.io/github/watchers/ningzimu/See_you_in_BUPT.svg?style=social&label=Watch&style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/watchers)  [![GitHub Star](https://img.shields.io/github/stars/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/network)  [![GitHub issues](https://img.shields.io/github/issues/ningzimu/See_you_in_BUPT.svg?style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/issues)  
-北京邮电大学计算机考研报考资料、复试资料汇总 for 2019 --by 凝紫暮   
+[![GitHub watchers](https://img.shields.io/github/watchers/ningzimu/See_you_in_BUPT.svg?style=social&label=Watch&style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/watchers)  [![GitHub Star](https://img.shields.io/github/stars/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/network)  [![GitHub issues](https://img.shields.io/github/issues/ningzimu/See_you_in_BUPT.svg?style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/issues)    
+
+北京邮电大学计算机考研报考资料、复试资料汇总 for 2019 -- by 凝紫暮   
 
 > CSDN：[北京邮电大学计算机考研信息汇总](http://blog.csdn.net/qq_26815027/article/details/79129454)   
 > GitHub Pages:[北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT)   
@@ -172,25 +173,28 @@
 - [软件学院](http://sse.bupt.edu.cn/)
 
 ### 招生专业目录  
-> **简介**：可以在招生专业目录里面找到学院的招生专业、人数、初试科目、和专业招生方向（组）等信息。        
+> **简介**：可以在招生专业目录里面找到学院的招生专业、人数、初试科目、和专业招生方向（组）等信息。[点击查看最新招生专业目录](https://yzb.bupt.edu.cn/content/content.php?p=8_4_65)      
 
 
 
 #### 1. 计算机学院招生目录   
 [2016年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年计算机学院硕士招生专业目录.jpg)  
 [2017年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士专业目录.docx)	    
-[2018年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年计算机学院硕士专业目录.docx)
+[2018年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年计算机学院硕士专业目录.docx)    
+[2019年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年计算机学院硕士研究生招生专业目录.docx)   
 #### 2. 网络技术研究院招生目录   
 [2016年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年网络技术研究院硕士招生专业目录.jpg)      
 [2017年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络技术研究院硕士专业目录.docx)	         
-[2018年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络技术研究院硕士专业目录.docx)	
+[2018年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络技术研究院硕士专业目录.docx)             
+[2019年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络技术研究院硕士研究生招生专业目录.docx)       	
 #### 3. 网络空间安全学院招生目录  
 [2017年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士专业目录.docx)	     
-[2018年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络空间安全学院硕士专业目录.docx)
+[2018年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络空间安全学院硕士专业目录.docx)      
+[2019年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络空间安全学院硕士研究生招生专业目录.docx)    
 #### 4. 软件学院招生目录  
 [2017年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士专业目录.docx)   
 [2018年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年软件学院硕士专业目录.docx)         
-
+[2019年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年软件学院硕士研究生招生专业目录.docx)    
 
 ### 报录比  
 > **简介**：可以在这里面找到历年北邮各学院、专业的具体报录信息和往年的考试均分等信息。供考研学子评估考研难度，为择校提供参考数据。         
@@ -211,15 +215,15 @@
 [2017年北邮报录比【Plus版】](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年各院硕士研究生分专业报考录取情况表.xlsx)  **（推荐）**       
 
 #### 6. 2018年北邮报录比    
-![2018年北邮报录比](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018报录比.jpg)      
+[2018年北邮报录比【官方版】](https://yzb.bupt.edu.cn/content/content.php?p=3_9_338)
 
 
 ### 考试大纲    
-> **简介**：北邮计算机考研统考科目一般为`政治`、`数学一`、`英语一`和自主命题的`专业课`等。详见 [招生专业目录](#招生专业目录)，在这里可以看到自主命题专业课的考试大纲。        
+> **简介**：北邮计算机考研统考科目一般为`政治`、`数学一`、`英语一`和自主命题的`专业课`等，详见 [招生专业目录](#招生专业目录)。在这里可以看到自主命题专业课的考试大纲。        
 
 #### 1. 801通信原理      
 [2018年801考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮801考纲.docx)       
-
+[2019年801考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年北邮801考纲.docx)   
 
 #### 2. 803计算机学科基础综合  
 > **关于803和408**：   
@@ -231,7 +235,8 @@
 ##### 2.1 大纲  
 [2016年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮2016计算机考纲803.docx)   
 [2017年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017北邮计算机考纲803（2016与2017相同）.docx)   
-[2018年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮计算机803考纲.pdf)     
+[2018年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮计算机803考纲.pdf)    
+[2019年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019北邮计算机803考纲.docx)      
 ##### 2.2 803/408参考书目  
 >  北邮官方没有公布指定的803参考书。但由于803和408的考试大纲相近，所以一般还是推荐使用408的参考书目。         
 
@@ -241,9 +246,14 @@
 > 《操作系统》汤子瀛    
    
 #### 3. 807软件工程专业综合  
-[2018年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮软件工程807考纲.pdf)     
+[2018年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮软件工程807考纲.pdf)    
+[2019年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019北邮软件工程807考纲.docx)     
+
 #### 4. 811概率论  
-[2018年811考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮811考纲.docx)     
+> 注意： 从2019考研起，北邮取消了811专业课考试科目
+
+[2018年811考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮811考纲.docx) 
+    
 
 
 ### 专业课真题  
@@ -936,12 +946,12 @@
 > **坚持！** **坚持！** **坚持!** 重要的事情说三遍！    
 > 北邮的调剂还是有一定的运气成分的，所以，最后的最后，祝大家好运！See you in BUPT.         
 
-**后记**：   
+**后记**：
 1. 以上所有报考信息来源于北邮官方网站，各大论坛、QQ群以及个人分析整理。在此衷心感谢各位热心的学长学姐！上述信息仅供各位学弟学妹们参考，本人不保证信息的绝对真实性与有效性。最后祝大家考研成功，梦圆北邮！
 2. 如有侵权，请联系我，第一时间删除。
-3. 欢迎加入史上最nice的2019北邮计算机考研群：[**460294132**](http://qm.qq.com/cgi-bin/qm/qr?k=1NasEaSksTVPe2OvGM3LU5FJkazf_8A9)或者[**263763735**](http://qm.qq.com/cgi-bin/qm/qr?k=w1CXeJ46d23YQMEZQ7q1-S3MSdcu8X6m)，无广告，非考研辅导机构。内设**辅助答疑机器人**24小时在线答疑，另有热心的北邮学长学姐解答您的一切考研疑问。   
-4. 维护更新这个考研信息汇总实属不易，耗费了我大量的时间和精力。如果这个北邮考研信息汇总对您考研有所帮助，您可以给我小额打赏，以激励我继续坚持更新和维护本汇总，帮助更多的考研人。感谢您的支持与鼓励！
+3. 欢迎加入史上最nice的2019北邮计算机考研群：[**460294132**](http://qm.qq.com/cgi-bin/qm/qr?k=1NasEaSksTVPe2OvGM3LU5FJkazf_8A9)或者[**263763735**](http://qm.qq.com/cgi-bin/qm/qr?k=w1CXeJ46d23YQMEZQ7q1-S3MSdcu8X6m)，无广告，非考研辅导机构。内设**辅助答疑机器人**24小时在线答疑，另有热心的北邮学长学姐解答您的一切考研疑问。
+4. 2018年与中国大学mooc和王道论坛合作，联合推出了北邮计算机/软件考研导学直播活动。在长达两个半小时的直播中，干货满满。如果同学们没有时间详细看这个汇总，或者想快速了解有关北邮计算机/软件考研的信息，欢迎报名看[直播回放](https://kaoyan.icourse163.org/course/terms/1003224006.htm?courseId=1003019005)。点击了解[更多直播详情](http://www.cskaoyan.com/thread-651906-1-1.html)。
+5. 维护更新这个考研信息汇总实属不易，耗费了我大量的时间和精力。如果这个北邮考研信息汇总对您考研有所帮助，您可以给我小额打赏，以激励我继续坚持更新和维护本汇总，帮助更多的考研人。感谢您的支持与鼓励！
 <div align="center">
 <img src="https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/Screenshot1.png"  height="110" width="100">
  </div>
-
